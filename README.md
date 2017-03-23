@@ -6,6 +6,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 
 * [Constable](https://github.com/thoughtbot/constable) - App for posting announcements and having discussions.
 * [ElixirStatus](https://github.com/rrrene/elixirstatus-web) - Community site for Elixir project/blog post/version updates.
+* [Firestorm](https://github.com/dailydrip/firestorm) - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 * [Hexpm](https://github.com/hexpm/hexpm) - API server and website for Hex.
 * [Nectar E-Commerce](https://github.com/vinsol/nectarcommerce) - E-commerce Elixir/Phoenix project.

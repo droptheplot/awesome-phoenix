@@ -24,3 +24,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Shield](https://github.com/mustafaturan/shield) - OAuth2 Provider hex package and also a standalone microservice.
 * [RemoteRetro](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives.
 * [Carbon](https://github.com/code3-coop/carbon) - Hackable white label CRM.
+* [Cercle](https://github.com/cerclecrm/cercle) - A Visual CRM Written with Phoenix Framework & Vuejs.

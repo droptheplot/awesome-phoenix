@@ -25,3 +25,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [RemoteRetro](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives.
 * [Carbon](https://github.com/code3-coop/carbon) - Hackable white label CRM.
 * [Cercle](https://github.com/cerclecrm/cercle) - A Visual CRM Written with Phoenix Framework & Vuejs.
+* [Healthlocker](https://github.com/healthlocker/healthlocker) - Inspire and motivate people to stay well.

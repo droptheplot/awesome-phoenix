@@ -26,3 +26,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Carbon](https://github.com/code3-coop/carbon) - Hackable white label CRM.
 * [Cercle](https://github.com/cerclecrm/cercle) - A Visual CRM Written with Phoenix Framework & Vuejs.
 * [Healthlocker](https://github.com/healthlocker/healthlocker) - Inspire and motivate people to stay well.
+* [Bank Platform](https://github.com/wojtekmach/acme_bank) - An example umbrella project.

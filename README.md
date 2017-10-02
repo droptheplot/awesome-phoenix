@@ -27,3 +27,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Cercle](https://github.com/cerclecrm/cercle) - A Visual CRM Written with Phoenix Framework & Vuejs.
 * [Healthlocker](https://github.com/healthlocker/healthlocker) - Inspire and motivate people to stay well.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) - An example umbrella project.
+* [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) - A Phoenix project by Hashrocket featuring small posts about technology.

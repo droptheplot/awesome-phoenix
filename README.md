@@ -28,3 +28,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Healthlocker](https://github.com/healthlocker/healthlocker) - Inspire and motivate people to stay well.
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) - An example umbrella project.
 * [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) - A Phoenix project by Hashrocket featuring small posts about technology.
+* [Code Corps](https://github.com/code-corps/code-corps-api) - Elixir/Phoenix API for [Code Corps](https://www.codecorps.org).

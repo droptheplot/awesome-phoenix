@@ -18,7 +18,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend-api) - Ember Weekend API [emberweekend.com](https://emberweekend.com).
 * [vutuv](https://github.com/vutuv/vutuv) - Social network service to host and share information about humans and organizations.
 * [Sprint Poker](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams.
-* [ElixirJobs](https://github.com/rizafahmi/elixirjobs) - Job portal for Alchemist.
+* [Elixirs](https://github.com/rizafahmi/elixirjobs) - Job portal for Alchemist.
 * [ExPlayground](https://github.com/stevedomin/ex_playground) - Run Elixir code in your browser.
 * [Loopa News](https://github.com/Angarsk8/Loopa-News) - Yet another URL sharing app.
 * [Shield](https://github.com/mustafaturan/shield) - OAuth2 Provider hex package and also a standalone microservice.
@@ -29,3 +29,10 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Bank Platform](https://github.com/wojtekmach/acme_bank) - An example umbrella project.
 * [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) - A Phoenix project by Hashrocket featuring small posts about technology.
 * [Code Corps](https://github.com/code-corps/code-corps-api) - Elixir/Phoenix API for [Code Corps](https://www.codecorps.org).
+* [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - A Trello replica done with Elixir, Phoenix Framework, Webpack, React and Redux.
+* [Loaded Bike](https://github.com/GBH/loaded.bike)- An app for exploring and sharing bicycle touring routes
+* [ExChat](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux)
+* [ExMoney](https://github.com/gaynetdinov/ex_money) - A personal finance app
+* [Startup Job](https://github.com/tsurupin/job_search) - An app to search startup jobs scraped from websites
+* [EphemeralShare](https://github.com/zabirauf/ephemeral_share) - A file sharing web app using RTC, React and Phoenix
+* [Leather](https://github.com/nicksergeant/leather) - A modern money management app.

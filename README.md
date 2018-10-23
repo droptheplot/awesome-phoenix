@@ -37,3 +37,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [EphemeralShare](https://github.com/zabirauf/ephemeral_share) - A file sharing web app using RTC, React and Phoenix
 * [Leather](https://github.com/nicksergeant/leather) - A modern money management app.
 * [Coincoin](https://github.com/robinmonjo/coincoin) - Blockchain based cryptocurrency proof-of-concept.
+* [ExVenture](https://github.com/oestrich/ex_venture) - A text based MMORPG

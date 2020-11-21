@@ -21,7 +21,6 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Elixirs](https://github.com/rizafahmi/elixirjobs) - Job portal for Alchemist.
 * [ExPlayground](https://github.com/stevedomin/ex_playground) - Run Elixir code in your browser.
 * [Loopa News](https://github.com/Angarsk8/Loopa-News) - Yet another URL sharing app.
-* [Shield](https://github.com/mustafaturan/shield) - OAuth2 Provider hex package and also a standalone microservice.
 * [RemoteRetro](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org)
 * [Carbon](https://github.com/code3-coop/carbon) - Hackable white label CRM.
 * [Cercle](https://github.com/cerclecrm/cercle) - A Visual CRM Written with Phoenix Framework & Vuejs.
@@ -38,3 +37,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Leather](https://github.com/nicksergeant/leather) - A modern money management app.
 * [Coincoin](https://github.com/robinmonjo/coincoin) - Blockchain based cryptocurrency proof-of-concept.
 * [ExVenture](https://github.com/oestrich/ex_venture) - A text based MMORPG
+* [Tune](https://github.com/fully-forged/tune) - Spotify client and browser

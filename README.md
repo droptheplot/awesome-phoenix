@@ -38,3 +38,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [Coincoin](https://github.com/robinmonjo/coincoin) - Blockchain based cryptocurrency proof-of-concept.
 * [ExVenture](https://github.com/oestrich/ex_venture) - A text based MMORPG
 * [Tune](https://github.com/fully-forged/tune) - Spotify client and browser
+* [mindwendel](https://github.com/mindwendel/mindwendel) - Brainstorm and upvote ideas and thoughts within your team.

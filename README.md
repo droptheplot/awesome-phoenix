@@ -39,3 +39,4 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 * [ExVenture](https://github.com/oestrich/ex_venture) - A text based MMORPG
 * [Tune](https://github.com/fully-forged/tune) - Spotify client and browser
 * [mindwendel](https://github.com/mindwendel/mindwendel) - Brainstorm and upvote ideas and thoughts within your team.
+* [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - Open-source UI components and integration guide for Phoenix/Elixir based on Tailwind CSS.
